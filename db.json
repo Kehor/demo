@@ -1,16 +1,18 @@
-{ 
-"users": [ 
-{ 
-   "id": "001", 
-   "first_name": "Amir", 
-   "last_name": "Cantrell", 
-   "email": "Cantrell@fakemail.com" 
-}, 
-{ 
-   "id" : "002", 
-   "first_name": "Ravi", 
-   "last_name": "Arias", 
-   "email": "Arias@fakemail.com" 
-}
-]
+{
+   Data{
+      "users": [ 
+      { 
+         "id": "001", 
+         "first_name": "Amir", 
+         "last_name": "Cantrell", 
+         "email": "Cantrell@fakemail.com" 
+      }, 
+      { 
+         "id" : "002", 
+         "first_name": "Ravi", 
+         "last_name": "Arias", 
+         "email": "Arias@fakemail.com" 
+      }
+      ]
+   }
 }
