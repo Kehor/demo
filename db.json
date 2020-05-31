@@ -8,8 +8,8 @@
 }, 
 { 
    "id" : "002", 
-   "prénom": "Ravi", 
-   "nom": "Arias", 
+   "first_name": "Ravi", 
+   "last_name": "Arias", 
    "email": "Arias@fakemail.com" 
 }
 ]
