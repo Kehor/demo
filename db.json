@@ -1,5 +1,4 @@
 {
-   Data{
       "users": [ 
       { 
          "id": "001", 
@@ -13,6 +12,5 @@
          "last_name": "Arias", 
          "email": "Arias@fakemail.com" 
       }
-      ]
-   }
+      ]  
 }
